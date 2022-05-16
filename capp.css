@@ -1,0 +1,83 @@
+.head {
+    /* text-align: center; */
+    font-size: 70px;
+    margin: 20px;
+    font-family: Raleway;
+    width: 230px;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+    border-radius: 20px;
+
+}
+
+.head:hover {
+    font-size: 100px;
+    text-decoration: underline;
+    text-shadow: rgb(45, 48, 32);
+    transition: 70ms;
+    width: 250px;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+    box-shadow: 10px 10px 10px rgb(87, 185, 231);
+}
+
+body {
+    background-image: linear-gradient(to top right, rgb(133, 210, 153), rgb(179, 210, 53));
+}
+
+.row {
+    margin-top: 10px;
+}
+
+.crd1:hover {
+    box-shadow: 2px 2px 2px rgb(31, 40, 44);
+    margin: -1px;
+    margin-top: 30px;
+}
+
+.crd2:hover {
+    box-shadow: 2px 2px 2px rgb(31, 40, 44);
+    margin: -1px;
+    margin-top: 30px;
+}
+
+.crd3:hover {
+    box-shadow: 2px 2px 2px rgb(31, 40, 44);
+    margin: -1px;
+    margin-top: 30px;
+}
+
+.crd4:hover {
+    box-shadow: 2px 2px 2px rgb(31, 40, 44);
+    margin: -1px;
+    margin-top: 30px;
+}
+
+.crd5:hover {
+    box-shadow: 2px 2px 2px rgb(31, 40, 44);
+    margin: -1px;
+    margin-top: 30px;
+}
+
+.crd6:hover {
+    box-shadow: 2px 2px 2px rgb(31, 40, 44);
+    margin: -1px;
+    margin-top: 30px;
+}
+
+.crd7:hover {
+    box-shadow: 2px 2px 2px rgb(31, 40, 44);
+    margin: -1px;
+    margin-top: 30px;
+}
+
+.crd8:hover {
+    box-shadow: 2px 2px 2px rgb(31, 40, 44);
+    margin: -1px;
+    margin-top: 30px;
+}
+
+span {
+    color: rgb(255, 0, 0);
+    font-size: 17px;
+}
